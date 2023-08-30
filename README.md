@@ -9,6 +9,8 @@ This is a simple API built using Node.js, Express, and TypeORM. It allows users 
 
 - Node.js (v14 or higher)
 - MySQL database
+- download typeorm
+- downdload EXPRESS
 
 ### Installation
 
